@@ -1,7 +1,7 @@
 
-### Привет, меня зовут Ярослав   
+ Привет, меня зовут Ярослав   
 <br/>  
-## My Skill Set  
+ My Skill Set  
 <table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
